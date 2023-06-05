@@ -1,7 +1,6 @@
-# Terence
-Terence Terence
 
-
+# Terence 
+...
 ---
 
 # Terence - Security Enhancement Tools
@@ -136,7 +135,17 @@ Before submitting a pull request, make sure to discuss your proposed changes wit
 
 Thank you for your interest in contributing to Terence. Together, we can make it a more effective and robust tool against hackers while supporting developers in their testing endeavors.
 
+...
 
+## Usage
+
+[![Usage Graph](usage-graph.png)](usage-graph.png)
+
+...
+
+
+
+---
 ## License
 
 Terence is licensed under the [MIT License](LICENSE), which allows you to freely use, modify, and distribute the software. However, it is important to comply with ethical hacking guidelines and legal regulations when utilizing the tool.
