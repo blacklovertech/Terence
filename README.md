@@ -139,8 +139,8 @@ Thank you for your interest in contributing to Terence. Together, we can make it
 
 ## Usage
 
-[![Usage Graph](usage-graph.png)](usage-graph.png)
-
+[![Usage Graph](200w.gif)](200w.gif)
+[![ Usage Graph](Einstein@Home.gif)](Einstein@Home.gif)
 ...
 
 
